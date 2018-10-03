@@ -25,5 +25,15 @@
                 </action>
             </actions>
         </event-block>
+        <event-block sid="674833670507282">
+            <conditions>
+                <condition id="-9" name="Is visible" sid="455639215346863" type="Sprite5" />
+            </conditions>
+            <actions>
+                <action id="-16" name="Set opacity" sid="856776709912942" type="Sprite2">
+                    <param id="0" name="Opacity">100</param>
+                </action>
+            </actions>
+        </event-block>
     </events>
 </c2eventsheet>

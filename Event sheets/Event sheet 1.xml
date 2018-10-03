@@ -14,5 +14,16 @@
                 </action>
             </actions>
         </event-block>
+        <event-block sid="498877481099138">
+            <conditions>
+                <condition id="-2" name="On start of layout" sid="822523084636378" type="System" />
+            </conditions>
+            <actions>
+                <action id="-3" name="Set position" sid="175178650370018" type="Sprite4">
+                    <param id="0" name="X">100</param>
+                    <param id="1" name="Y">100</param>
+                </action>
+            </actions>
+        </event-block>
     </events>
 </c2eventsheet>

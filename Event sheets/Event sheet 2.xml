@@ -2,5 +2,19 @@
 <c2eventsheet>
     <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
     <name>Event sheet 2</name>
-    <events />
+    <events>
+        <event-block sid="135897638748213">
+            <conditions>
+                <condition id="-11" name="Is within angle" sid="157585001819251" type="Sprite">
+                    <param id="0" name="Within">15</param>
+                    <param id="1" name="Angle">10</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-16" name="Set opacity" sid="256682772125474" type="Sprite">
+                    <param id="0" name="Opacity">100</param>
+                </action>
+            </actions>
+        </event-block>
+    </events>
 </c2eventsheet>

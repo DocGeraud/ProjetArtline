@@ -14,6 +14,10 @@
                 <action id="-16" name="Set opacity" sid="256682772125474" type="Sprite">
                     <param id="0" name="Opacity">100</param>
                 </action>
+                <action id="4" name="Set animation" sid="503173815869061" type="Sprite">
+                    <param id="0" name="Animation">&quot;&quot;</param>
+                    <param id="1" name="From">1</param>
+                </action>
             </actions>
         </event-block>
     </events>

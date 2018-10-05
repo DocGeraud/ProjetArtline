@@ -20,5 +20,15 @@
                 </action>
             </actions>
         </event-block>
+        <event-block sid="643324654587060">
+            <conditions>
+                <condition id="-21" name="Is between values" sid="645850159844194" type="System">
+                    <param id="0" name="Value">0</param>
+                    <param id="1" name="Lower bound">0</param>
+                    <param id="2" name="Upper bound">10</param>
+                </condition>
+            </conditions>
+            <actions />
+        </event-block>
     </events>
 </c2eventsheet>
